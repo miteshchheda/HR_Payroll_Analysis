@@ -1,5 +1,5 @@
 # HR Payroll Data Analysis
-This project analyzes HR payroll data using **Excel**,**SQL** and **Power BI**.  
+This project analyzes HR payroll data using **Excel**, **SQL** and **Power BI**.  
 It demonstrates my ability to clean, query, and visualize HR datasets for insights.
 
 ## 📊 Project Overview
